@@ -1,0 +1,15 @@
+yfinance
+scipy
+matplotlib
+statsmodels
+numba
+pymc
+numpyro
+flowmc
+jax
+modal
+pytest
+ipykernel
+ipywidgets
+corner
+tqdm
